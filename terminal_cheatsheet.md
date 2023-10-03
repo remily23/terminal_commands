@@ -1,7 +1,7 @@
 ### My Terminal Cheatsheet
 
-- Ls: lists all files and folders in current directory
-- Cd: to return documents 
+- ls: lists all files and folders in current directory
+- cd: to return documents 
 - ../: takes you a level up from the current folder
 - mkdir: creates a new folder/directory
 - pwd: states your current location files/folder (helpful if lost)
@@ -13,11 +13,9 @@
 	- double .. for moving to another the directory a level above
 - cp: copies files 
 		-r: copies an entire directory
-- git log: 
+- git log: displays timeline for all changes made by who and when
 - q: to escape git log
 - control + d: saves in terminal
-- man: manual & documentation on Terminal
+- man: displays manual & documentation on Terminal
 - control + l: moves up a line, but can still see previous entries in terminal
 
-
-Git push origin main
