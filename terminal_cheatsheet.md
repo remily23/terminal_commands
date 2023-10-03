@@ -8,8 +8,9 @@
 - touch: makes a file - will usually add a file extension on the end 
 - rm: followed by the file name deletes them with a warning message
 	-rf: remove forced deletes with no warning message
-- mv: moves files to another location, requires the file name: 'file_name.txt', 		followed by single . for moving within current directly
-	.. for moving to another the directory a level above.
+- mv: moves files to another location, requires the file name 'file_name.txt' to follow,
+	- followed by single . for moving within current directory
+	- double .. for moving to another the directory a level above
 - cp: copies files 
 		-r: copies an entire directory
 - git log: 
